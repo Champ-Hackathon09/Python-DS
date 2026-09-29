@@ -1,0 +1,101 @@
+Property_ID,Date,Location,Property_Type,Bedrooms,Area_sqft,Price_Lakh,Status
+1001,2025-01-01,Nagpur,Villa,3,2400,161,Under Construction
+1002,2025-01-02,Pune,Villa,1,927,310,Ready to Move
+1003,2025-01-03,Navi Mumbai,Villa,1,2112,336,Under Construction
+1004,2025-01-04,Navi Mumbai,Studio,2,1924,262,Under Construction
+1005,2025-01-05,Nagpur,Apartment,2,1893,68,Ready to Move
+1006,2025-01-06,Pune,Apartment,3,2158,299,Ready to Move
+1007,2025-01-07,Mumbai,Studio,2,1934,242,Ready to Move
+1008,2025-01-08,Pune,Studio,2,880,309,Ready to Move
+1009,2025-01-09,Thane,Studio,4,1503,116,Under Construction
+1010,2025-01-10,Thane,Apartment,4,2389,138,Under Construction
+1011,2025-01-11,Mumbai,Studio,3,1020,107,Under Construction
+1012,2025-01-12,Nagpur,Apartment,1,2216,187,Ready to Move
+1013,2025-01-13,Mumbai,Studio,2,2130,303,Ready to Move
+1014,2025-01-14,Nagpur,Penthouse,3,1365,212,Ready to Move
+1015,2025-01-15,Mumbai,Studio,3,2243,261,Ready to Move
+1016,2025-01-16,Navi Mumbai,Studio,3,906,230,Ready to Move
+1017,2025-01-17,Thane,Apartment,1,684,159,Ready to Move
+1018,2025-01-18,Navi Mumbai,Villa,3,681,131,Under Construction
+1019,2025-01-19,Nagpur,Villa,4,2070,253,Ready to Move
+1020,2025-01-20,Nagpur,Studio,1,2304,238,Under Construction
+1021,2025-01-21,Mumbai,Studio,1,760,164,Ready to Move
+1022,2025-01-22,Mumbai,Villa,4,544,328,Ready to Move
+1023,2025-01-23,Mumbai,Villa,2,1835,328,Under Construction
+1024,2025-01-24,Navi Mumbai,Penthouse,1,1800,246,Ready to Move
+1025,2025-01-25,Mumbai,Villa,2,1311,78,Ready to Move
+1026,2025-01-26,Thane,Studio,1,933,213,Ready to Move
+1027,2025-01-27,Mumbai,Apartment,3,774,229,Under Construction
+1028,2025-01-28,Pune,Villa,4,684,146,Ready to Move
+1029,2025-01-29,Nagpur,Apartment,3,1161,171,Under Construction
+1030,2025-01-30,Pune,Apartment,3,2470,285,Ready to Move
+1031,2025-01-31,Navi Mumbai,Studio,1,621,97,Ready to Move
+1032,2025-02-01,Navi Mumbai,Penthouse,4,1930,119,Ready to Move
+1033,2025-02-02,Mumbai,Villa,2,518,348,Ready to Move
+1034,2025-02-03,Navi Mumbai,Villa,4,1465,195,Under Construction
+1035,2025-02-04,Mumbai,Penthouse,1,2395,289,Ready to Move
+1036,2025-02-05,Pune,Villa,3,747,272,Ready to Move
+1037,2025-02-06,Mumbai,Apartment,4,505,230,Ready to Move
+1038,2025-02-07,Mumbai,Penthouse,1,2169,63,Under Construction
+1039,2025-02-08,Nagpur,Apartment,1,2362,216,Under Construction
+1040,2025-02-09,Nagpur,Villa,1,2003,114,Under Construction
+1041,2025-02-10,Nagpur,Penthouse,1,1681,137,Ready to Move
+1042,2025-02-11,Thane,Studio,2,1924,76,Ready to Move
+1043,2025-02-12,Pune,Apartment,3,1438,327,Under Construction
+1044,2025-02-13,Navi Mumbai,Villa,1,1770,303,Under Construction
+1045,2025-02-14,Mumbai,Villa,3,1442,199,Ready to Move
+1046,2025-02-15,Nagpur,Villa,1,1592,232,Under Construction
+1047,2025-02-16,Mumbai,Studio,4,738,94,Ready to Move
+1048,2025-02-17,Nagpur,Penthouse,4,602,166,Under Construction
+1049,2025-02-18,Navi Mumbai,Apartment,2,2241,200,Under Construction
+1050,2025-02-19,Pune,Apartment,2,1974,121,Under Construction
+1051,2025-02-20,Navi Mumbai,Penthouse,1,1408,209,Ready to Move
+1052,2025-02-21,Navi Mumbai,Penthouse,2,1322,49,Under Construction
+1053,2025-02-22,Navi Mumbai,Penthouse,4,1612,182,Under Construction
+1054,2025-02-23,Pune,Villa,3,591,213,Ready to Move
+1055,2025-02-24,Navi Mumbai,Apartment,1,1519,328,Ready to Move
+1056,2025-02-25,Navi Mumbai,Apartment,1,939,348,Under Construction
+1057,2025-02-26,Nagpur,Villa,1,1540,104,Ready to Move
+1058,2025-02-27,Navi Mumbai,Apartment,2,994,251,Under Construction
+1059,2025-02-28,Pune,Penthouse,1,1904,302,Ready to Move
+1060,2025-03-01,Navi Mumbai,Villa,4,1145,61,Under Construction
+1061,2025-03-02,Pune,Studio,2,604,325,Under Construction
+1062,2025-03-03,Pune,Villa,2,1105,115,Ready to Move
+1063,2025-03-04,Pune,Studio,2,573,332,Ready to Move
+1064,2025-03-05,Thane,Penthouse,3,1952,325,Under Construction
+1065,2025-03-06,Navi Mumbai,Penthouse,3,1195,230,Ready to Move
+1066,2025-03-07,Thane,Penthouse,1,795,39,Ready to Move
+1067,2025-03-08,Thane,Studio,1,1730,139,Under Construction
+1068,2025-03-09,Navi Mumbai,Penthouse,4,1466,170,Ready to Move
+1069,2025-03-10,Navi Mumbai,Apartment,4,1714,269,Ready to Move
+1070,2025-03-11,Thane,Apartment,1,1910,349,Ready to Move
+1071,2025-03-12,Mumbai,Villa,4,1049,147,Under Construction
+1072,2025-03-13,Nagpur,Penthouse,3,842,293,Under Construction
+1073,2025-03-14,Navi Mumbai,Villa,3,1765,330,Under Construction
+1074,2025-03-15,Pune,Apartment,1,1314,107,Ready to Move
+1075,2025-03-16,Pune,Villa,3,1789,39,Under Construction
+1076,2025-03-17,Nagpur,Penthouse,4,1175,35,Ready to Move
+1077,2025-03-18,Navi Mumbai,Penthouse,3,2051,215,Ready to Move
+1078,2025-03-19,Nagpur,Villa,3,1416,148,Ready to Move
+1079,2025-03-20,Nagpur,Villa,2,2196,55,Under Construction
+1080,2025-03-21,Nagpur,Apartment,4,2391,159,Ready to Move
+1081,2025-03-22,Navi Mumbai,Apartment,2,2441,66,Ready to Move
+1082,2025-03-23,Navi Mumbai,Penthouse,2,1722,84,Under Construction
+1083,2025-03-24,Mumbai,Studio,1,1992,269,Ready to Move
+1084,2025-03-25,Nagpur,Villa,4,1396,185,Under Construction
+1085,2025-03-26,Navi Mumbai,Villa,4,712,193,Ready to Move
+1086,2025-03-27,Mumbai,Studio,2,1045,149,Ready to Move
+1087,2025-03-28,Thane,Apartment,3,2057,197,Ready to Move
+1088,2025-03-29,Thane,Studio,1,2358,119,Ready to Move
+1089,2025-03-30,Navi Mumbai,Penthouse,2,767,114,Under Construction
+1090,2025-03-31,Thane,Apartment,4,803,35,Ready to Move
+1091,2025-04-01,Navi Mumbai,Penthouse,4,1663,261,Under Construction
+1092,2025-04-02,Nagpur,Studio,1,1560,198,Ready to Move
+1093,2025-04-03,Nagpur,Studio,3,956,154,Under Construction
+1094,2025-04-04,Mumbai,Villa,4,2273,153,Ready to Move
+1095,2025-04-05,Nagpur,Villa,2,2207,191,Under Construction
+1096,2025-04-06,Navi Mumbai,Villa,4,2289,326,Ready to Move
+1097,2025-04-07,Pune,Villa,2,1211,208,Ready to Move
+1098,2025-04-08,Thane,Penthouse,2,1321,249,Under Construction
+1099,2025-04-09,Nagpur,Villa,3,1275,122,Under Construction
+1100,2025-04-10,Nagpur,Penthouse,3,905,278,Ready to Move
